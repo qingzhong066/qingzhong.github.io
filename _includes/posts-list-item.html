@@ -9,7 +9,10 @@
       {% include post-date.html %}
     </span>
   </div>
-  {% if site.show_excerpts == true %} {{ post.content | strip_html |
-  truncatewords: site.excerpt_word_count }} [Read more]({{ post.url }}) {% endif
-  %}
+  {% if post.image %}
+    <img src="{{ post.image }}" alt="{{ post.title }} image" class="post-image">
+  {% endif %}
+  {% if site.show_excerpts == true %}
+    <p>{{ post.content | strip_html | truncatewords: site.excerpt_word_count }} [Read more]({{ post.url }})</p>
+  {% endif %}
 </li>

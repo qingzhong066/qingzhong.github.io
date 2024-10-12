@@ -1,6 +1,9 @@
 ---
-title: Hipster ipsum
+title: "My Post Title"
+date: 2024-10-12
+image: "../assets/meme.jpg"
 ---
+
 
 Ennui church-key raclette blog wolf hell of keffiyeh cloud bread intelligentsia four loko irony cliche. Chicharrones selvage succulents pug adaptogen hot chicken activated charcoal offal unicorn godard meditation jean shorts banjo palo santo edison bulb. Single-origin coffee cardigan lumbersexual, tumeric kinfolk enamel pin bicycle rights literally blog coloring book echo park cornhole shaman. Mumblecore mlkshk chicharrones drinking vinegar, hot chicken health goth keytar.
 

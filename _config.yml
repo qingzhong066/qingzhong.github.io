@@ -8,7 +8,7 @@
 url: https://point-theme.netlify.app
 
 # for header and meta tags
-title: Point Theme 🎯
+title: Qing Zhong
 description: description for search engines and social media cards
 
 # set external to true if linking outside your website
@@ -17,20 +17,20 @@ nav-links:
   - name: Home
     url: /
     external: false
-  - name: Blog
-    url: /blog
-    external: false
-  - name: Search Engine
-    url: https://duckduckgo.com
-    external: true
+  #- name: Project
+   # url: /blog
+   # external: false
+  #- name: Search Engine
+  #  url: https://duckduckgo.com
+   # external: true
 
 # for the homepage image + big text next to it
-greeting_image: /assets/me.jpg
+greeting_image: /assets/meme.jpg
 # 100-200 characters recommended
-greeting_text: Hey, I'm Point Theme! I'm a Jekyll theme for personal websites that are short & to the point. Fork it on Github, customize the styles and options, and enjoy!
+greeting_text: I am a software developer and HCI researcher currently studying Computer Science at Tufts University. I am dedicated to creating intuitive and user-centered experiences through technological innovation.
 
 # show blog post excerpts on blog page
-show_excerpts: false
+show_excerpts: true
 excerpt_word_count: 70
 
 # long date: April 20, 1969
