@@ -1,5 +1,4 @@
-#
-#
+
 # things you probably want to change
 #
 #
@@ -8,7 +7,7 @@
 url: https://point-theme.netlify.app
 
 # for header and meta tags
-title: Qing Zhong
+title: Qing Zhong 
 description: description for search engines and social media cards
 
 # set external to true if linking outside your website
@@ -27,10 +26,10 @@ nav-links:
 # for the homepage image + big text next to it
 greeting_image: /assets/meme.jpg
 # 100-200 characters recommended
-greeting_text: I am a software developer and HCI researcher currently studying Computer Science at Tufts University. I am dedicated to creating intuitive and user-centered experiences through technological innovation.
+greeting_text: I am studying Computer Science at Tufts University. I am dedicated to creating intuitive and user-centered experiences through technological innovation.
 
 # show blog post excerpts on blog page
-show_excerpts: true
+show_excerpts: false
 excerpt_word_count: 70
 
 # long date: April 20, 1969
@@ -58,4 +57,3 @@ defaults:
 permalink: /:title # so we have /about instead of /about.html, and /blog-post instead of /2019-11-22-blog-post.html
 sass:
   style: compressed # compress the CSS file generated from the SCSS styles file
-baseurl: "/assets"
