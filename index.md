@@ -21,7 +21,7 @@
 **M.S. Computer Science**
 
 - GPA: 3.5/4.0
-- **Coursework:** Software Engineering, Human-Computer Interaction, Machine Learning, Computer Vision
+- **Coursework:** Software Engineering, Human-Computer Interaction, Operating System,Machine Learning, Computer Vision
 
 ### Northeastern University
 *Sept 2020 – Jun 2022*
