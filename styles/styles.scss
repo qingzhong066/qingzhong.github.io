@@ -45,29 +45,31 @@ h1,
 h2,
 h3 {
   color: #333;
-  font-family: var(--heading-font-stack);
-  margin-top: 1rem;
+  font-family: $heading-font-stack;
 }
 
 h1 {
-  font-size: 0.8rem; /* 调小字体大小 */
+  font-size: 2.5rem;
+  margin-top: 1rem;
 }
 
 .global-title {
-  font-size: 0.8rem; /* 调小字体大小 */
+  font-size: 1.2rem;
   color: #222;
 }
 
 h2 {
-  font-size: 0.9rem; /* 调小字体大小 */
-  margin: 2rem 0 1rem;
+  font-size: 1.8rem;
 }
 
 h3 {
-  font-size: 0.8rem; /* 调小字体大小 */
-  margin: 2rem 0 1rem;
+  font-size: 1.3rem;
 }
 
+h2,
+h3 {
+  margin: 2rem 0 1rem;
+}
 
 // typography: body
 p,
@@ -114,7 +116,7 @@ img {
 
 .greeting-container h3 {
   align-self: center;
-  font-size: 0.9rem;
+  font-size: 1rem;
   margin: 0;
 }
 

@@ -1,10 +1,7 @@
 
-# things you probably want to change
-#
-#
 
-# no trailing slash
-url: https://point-theme.netlify.app
+#
+# things you probably want to change
 
 # for header and meta tags
 title: Qing Zhong 
@@ -13,15 +10,15 @@ description: description for search engines and social media cards
 # set external to true if linking outside your website
 # for internal, make sure to include preceding slash
 nav-links:
-  - name: Home
+  - name: About me
     url: /
     external: false
-  #- name: Project
-   # url: /blog
-   # external: false
+ # - name: Blog
+  #  url: /blog
+  #  external: false
   #- name: Search Engine
   #  url: https://duckduckgo.com
-   # external: true
+  #  external: true
 
 # for the homepage image + big text next to it
 greeting_image: /assets/meme.jpg
