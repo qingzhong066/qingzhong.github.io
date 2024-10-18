@@ -36,7 +36,7 @@
 
 ## 📑 Research Experience
 
-**Research Assistant** Tufts University HCI Lab
+**Research Assistant** [Tufts University HCI Lab](https://tufts-hci-lab.github.io/)
 
 *Boston, MA*  
 *May 2024 – Present*  
