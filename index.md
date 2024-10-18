@@ -32,6 +32,10 @@
 - GPA: 3.7/4.0  Dean's list
 - **Coursework:**  Statistics,Computer Networks, Designing User Experience, Web Development, Database Management
 
+&nbsp;
+
+***
+
 ## 📑 Research Experience
 
 **Research Assistant** Tufts University HCI Lab
@@ -49,6 +53,10 @@ Advisor: [Prof. Robert Jacob](https://scholar.google.com/citations?user=FWjqglcA
 - Executed participant experimental sessions, ensuring adherence to established procedures
 - Collected fNIRS data for cognitive load and emotional response analysis
 - Collaborated with team members in preliminary data organization and analysis
+
+&nbsp;
+
+***
 
 ## 💻Professional Experience
 
@@ -72,6 +80,9 @@ Advisor: [Prof. Robert Jacob](https://scholar.google.com/citations?user=FWjqglcA
 - Optimized website performance through efficient coding practices, resulting in improved load times and enhanced user engagement.
 - Implemented responsive design principles, ensuring seamless functionality across multiple devices and platforms.
 
+&nbsp;
+
+***
 
 ## 📚Workshop: Machine Learning in Action
 Finished the core part of the famous Machine Learning in Action book and the Stanford CS231n course.<br>
@@ -84,6 +95,9 @@ Finished the core part of the famous Machine Learning in Action book and the Sta
 digits recognition system and a movie face recognition model
 
 
+&nbsp;
+
+***
 
 ## 🤝Service & Leadership
 
@@ -95,8 +109,9 @@ New England Graduate Women in Science and Engineering
 - Assist in organizing seminars, workshops, and social events to promote the development of female graduate students in science and engineering fields
 - Participate in interdisciplinary collaborative projects to facilitate communication among members with diverse backgrounds
  
+&nbsp;
 
-
+***
 
 ## 🏆Honors and Awards
 - Dean's List Northeastern University 2022
@@ -105,6 +120,10 @@ New England Graduate Women in Science and Engineering
 - Cum laude, Guangzhou City Construction College, 2016
 - National Encouragement Scholarship (top 10/850), China Ministry of Education, 2014
 - The First Prize Scholarship (top 15/850%), Guangzhou City Construction College
+
+&nbsp;
+
+***
 
 ## 🦾 Professional Skills
 
