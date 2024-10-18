@@ -20,8 +20,6 @@
 **M.S. Computer Science**
 *Jan 2023 – Jun 2025*
 
-
-- GPA: 3.5/4.0
 - **Coursework:** Software Engineering, Human-Computer Interaction,Operating System,Machine Learning, Computer Vision
 
 ### Northeastern University
@@ -44,7 +42,9 @@
 *May 2024 – Present*  
 Advisor: [Prof. Robert Jacob](https://scholar.google.com/citations?user=FWjqglcAAAAJ&hl=en)
 
-**Project: Impact of AI Tools on Users' Mental Workload and Emotional States (Ongoing)**
+**"The Mind at Work: fNIRS Monitoring of Prefrontal Activity During AI-Assisted Office Tasks" (Ongoing)**
+
+Matthew Russell,Qing Zhong,Kent Zheng,Kuangyi Hu, Julia Santaniello,Robert Jacob
 - Conducted comprehensive background research on:
   - AI tools,Mental workload assessment techniques and Emotion models 
 - Contributed to the design of experimental tasks simulating real-world AI-assisted work scenarios
@@ -99,15 +99,14 @@ digits recognition system and a movie face recognition model
 
 ***
 
-## 🤝Service & Leadership
+## 🤝Service
 
 New England Graduate Women in Science and Engineering
 ### Member
 *Boston, MA*  
 *Oct 2024 – present*
 
-- Assist in organizing seminars, workshops, and social events to promote the development of female graduate students in science and engineering fields
-- Participate in interdisciplinary collaborative projects to facilitate communication among members with diverse backgrounds
+- Assist in social events to promote the development of female graduate students in science and engineering fields, facilitate communication among members with diverse backgrounds
  
 &nbsp;
 
