@@ -46,7 +46,7 @@ Advisor: [Prof. Robert Jacob](https://scholar.google.com/citations?user=FWjqglcA
 
 Matthew Russell,Qing Zhong,Kent Zheng,Kuangyi Hu, Julia Santaniello,Robert Jacob
 - Conducted comprehensive background research on:
-  - AI tools,Mental workload assessment techniques and Emotion models 
+  - AI tools,fNIRS,Mental workload assessment techniques and Emotion models 
 - Contributed to the design of experimental tasks simulating real-world AI-assisted work scenarios
 - Developed a comprehensive workflow webpage for the entire experiment, enhancing team coordination and experimental consistency
 - Assisted in creating participant guidance documents and experimental protocols
