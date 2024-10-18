@@ -17,34 +17,38 @@
 ## 🎓Education
 
 ### Tufts University
-*Jan 2023 – Jun 2025*
 **M.S. Computer Science**
+*Jan 2023 – Jun 2025*
+
 
 - GPA: 3.5/4.0
 - **Coursework:** Software Engineering, Human-Computer Interaction,Operating System,Machine Learning, Computer Vision
 
 ### Northeastern University
-*Sept 2020 – Jun 2022*
+
 **B.S. Information Technology**
+*Sept 2020 – Jun 2022*
 
 - GPA: 3.7/4.0  Dean's list
-- **Coursework:** Networking, Designing User Experience, Web Development, Database Management
+- **Coursework:**  Statistics,Computer Networks, Designing User Experience, Web Development, Database Management
 
-## 📑Research Experience
+## 📑 Research Experience
 
-### Research Assistant
-**Tufts University HCI Lab**  
+**Research Assistant** Tufts University HCI Lab
+
 *Boston, MA*  
-*May 2024 – Present*
+*May 2024 – Present*  
+Advisor: [Prof. Robert Jacob](https://scholar.google.com/citations?user=FWjqglcAAAAJ&hl=en)
 
-- Advisor: Prof. Robert Jacob
-- **Exploring LLM Tools' Impact on User Experience**
-  - Conducted comprehensive literature review and background research
-  - Designed experimental tasks simulating knowledge workers' activities
-  - Developed Qualtrics questionnaires for data collection
-  - Created detailed participant manuals and protocols
-  - Ran participant experimental sessions
-  - Collected and analyzed multi-modal data (fNIRS, HR, HRV, EDA)
+**Project: Impact of AI Tools on Users' Mental Workload and Emotional States (Ongoing)**
+- Conducted comprehensive background research on:
+  - AI tools,Mental workload assessment techniques and Emotion models 
+- Contributed to the design of experimental tasks simulating real-world AI-assisted work scenarios
+- Developed a comprehensive workflow webpage for the entire experiment, enhancing team coordination and experimental consistency
+- Assisted in creating participant guidance documents and experimental protocols
+- Executed participant experimental sessions, ensuring adherence to established procedures
+- Collected fNIRS data for cognitive load and emotional response analysis
+- Collaborated with team members in preliminary data organization and analysis
 
 ## 💻Professional Experience
 
@@ -67,3 +71,45 @@
 - Spearheaded the development lifecycle from conceptualization to deployment, ensuring adherence to best practices in web development and security protocols.
 - Optimized website performance through efficient coding practices, resulting in improved load times and enhanced user engagement.
 - Implemented responsive design principles, ensuring seamless functionality across multiple devices and platforms.
+
+
+## 📚Workshop: Machine Learning in Action
+Finished the core part of the famous Machine Learning in Action book and the Stanford CS231n course.<br>
+*China*  
+*Oct 2018 – Jun 2019*
+- Learned the basic use of Python and Tensorflo
+- Implemented several basic machine learning algorithms
+- Learned the training and tuning of deep neural networks
+- Implementedseveralsimplemachinelearningprototypesincludinga CNN-based-handwritten
+digits recognition system and a movie face recognition model
+
+
+
+## 🤝Service & Leadership
+
+New England Graduate Women in Science and Engineering
+### Member
+*Boston, MA*  
+*Oct 2024 – present*
+
+- Assist in organizing seminars, workshops, and social events to promote the development of female graduate students in science and engineering fields
+- Participate in interdisciplinary collaborative projects to facilitate communication among members with diverse backgrounds
+ 
+
+
+
+## 🏆Honors and Awards
+- Dean's List Northeastern University 2022
+- Dean's List Northeastern University 2021
+- Dean's List Northeastern University 2020
+- Cum laude, Guangzhou City Construction College, 2016
+- National Encouragement Scholarship (top 10/850), China Ministry of Education, 2014
+- The First Prize Scholarship (top 15/850%), Guangzhou City Construction College
+
+## 🦾 Professional Skills
+
+**Technical:** Python, Java, C++/C#, Machine Learning, Data Visualization, Git, SQL
+
+**Research:** Experimental design, Statistical inference, Data analysis, Quantitative/Qualitative research methods
+
+**Design:** Figma, UI/UX Design, Prototyping, User Research
