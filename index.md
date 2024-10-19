@@ -20,7 +20,7 @@
 **M.S. Computer Science**
 *Jan 2023 – Jun 2025*
 
-- **Coursework:** Human-Computer Interaction,Software Engineering,Operating System,Machine Learning, Computer Vision
+- **Coursework:** Human-Computer Interaction,Software Engineering,Operating System,Machine Learning, Computer Vision,Computer Graphic
 
 ### Northeastern University
 
@@ -28,7 +28,7 @@
 *Sept 2020 – Jun 2022*
 
 - GPA: 3.7/4.0  Dean's list
-- **Coursework:**  Statistics,Computer Network, Designing User Experience, Web Development, Database Management
+- **Coursework:** System Analysis Design,Designing User Experience, Web Development, Database Management,Statistics,Computer Network.
 
 &nbsp;
 
@@ -42,18 +42,16 @@
 *May 2024 – Present*  
 Advisor: [Prof. Robert Jacob](https://scholar.google.com/citations?user=FWjqglcAAAAJ&hl=en)
 
-**"The Mind at Work: fNIRS Monitoring of Prefrontal Activity During AI-Assisted Office Tasks" (Ongoing)**
+**"The Mind at Work: fNIRS Monitoring of Prefrontal Activity During AI-Assisted Office Tasks" (In preparation)**
 
 Matthew Russell,Qing Zhong,Kent Zheng,Kuangyi Hu, Julia Santaniello,Robert Jacob
 - Research on utilizing fNIRS to assess cognitive load and emotional responses during AI-assisted office tasks.
-- Conducted comprehensive background research on:
-  - AI tools,fNIRS,Mental workload assessment techniques and Emotion models 
-- Contributed to the design of experimental tasks simulating real-world AI-assisted work scenarios
-- Developed a comprehensive workflow webpage for the entire experiment, enhancing team coordination and experimental consistency
-- Assisted in creating participant guidance documents and experimental protocols
-- Executed participant experimental sessions, ensuring adherence to established procedures
-- Collected fNIRS data for cognitive load and emotional response analysis
-- Collaborated with team members in preliminary data organization and analysis 
+- Conducted background research on AI tools, fNIRS, mental workload assessment,
+and emotion models
+- Designed experimental tasks simulating AI-assisted work scenarios
+- Created participant guidance and experimental protocols
+- Ran participant experimental sessions and collected data
+- Collaborated in data organization and preliminary analysis
 
 &nbsp;
 
@@ -107,7 +105,7 @@ New England Graduate Women in Science and Engineering
 *Boston, MA*  
 *Oct 2024 – present*
 
-- Contribute to and support social events aimed at empowering female graduate students in science and engineering disciplines.
+- Contribute to social events aimed at empowering female graduate students in science and engineering disciplines.
 - Actively participate in initiatives fostering a diverse and inclusive community within STEM fields.
 
 &nbsp;
