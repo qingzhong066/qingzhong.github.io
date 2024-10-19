@@ -20,7 +20,7 @@
 **M.S. Computer Science**
 *Jan 2023 – Jun 2025*
 
-- **Coursework:** Software Engineering, Human-Computer Interaction,Operating System,Machine Learning, Computer Vision
+- **Coursework:** Human-Computer Interaction,Software Engineering,Operating System,Machine Learning, Computer Vision
 
 ### Northeastern University
 
@@ -28,7 +28,7 @@
 *Sept 2020 – Jun 2022*
 
 - GPA: 3.7/4.0  Dean's list
-- **Coursework:**  Statistics,Computer Networks, Designing User Experience, Web Development, Database Management
+- **Coursework:**  Statistics,Computer Network, Designing User Experience, Web Development, Database Management
 
 &nbsp;
 
@@ -45,7 +45,15 @@ Advisor: [Prof. Robert Jacob](https://scholar.google.com/citations?user=FWjqglcA
 **"The Mind at Work: fNIRS Monitoring of Prefrontal Activity During AI-Assisted Office Tasks" (Ongoing)**
 
 Matthew Russell,Qing Zhong,Kent Zheng,Kuangyi Hu, Julia Santaniello,Robert Jacob
-- Research on utilizing fNIRS to assess cognitive load and emotional responses during AI-assisted office tasks. Integrated AI tools, mental workload assessment techniques, and emotion models. Contributed to experimental design, data collection, and preliminary analysis.
+- Research on utilizing fNIRS to assess cognitive load and emotional responses during AI-assisted office tasks.
+- Conducted comprehensive background research on:
+  - AI tools,fNIRS,Mental workload assessment techniques and Emotion models 
+- Contributed to the design of experimental tasks simulating real-world AI-assisted work scenarios
+- Developed a comprehensive workflow webpage for the entire experiment, enhancing team coordination and experimental consistency
+- Assisted in creating participant guidance documents and experimental protocols
+- Executed participant experimental sessions, ensuring adherence to established procedures
+- Collected fNIRS data for cognitive load and emotional response analysis
+- Collaborated with team members in preliminary data organization and analysis 
 
 &nbsp;
 
@@ -64,7 +72,7 @@ Matthew Russell,Qing Zhong,Kent Zheng,Kuangyi Hu, Julia Santaniello,Robert Jacob
 - Enhanced UI/UX by creating an intuitive, responsive design with a mobile-first approach, significantly improving user engagement and overall platform accessibility.
 
 ### Full Stack Developer
-**Heyuan Yue Impression Media Co., Ltd.**  
+**Heyuan Yue-Impression Media Co., Ltd.**  
 *China*  
 *Jan 2018 – Dec 2019*
 
@@ -99,8 +107,9 @@ New England Graduate Women in Science and Engineering
 *Boston, MA*  
 *Oct 2024 – present*
 
-- Assist in social events to promote the development of female graduate students in science and engineering fields, facilitate communication among members with diverse backgrounds
- 
+- Contribute to and support social events aimed at empowering female graduate students in science and engineering disciplines.
+- Actively participate in initiatives fostering a diverse and inclusive community within STEM fields.
+
 &nbsp;
 
 ***
@@ -118,8 +127,11 @@ New England Graduate Women in Science and Engineering
 
 ## 🦾 Professional Skills
 
-**Technical:** Python, Java, C++/C#, Machine Learning, Data Visualization, Git, SQL
+**Langauge:** Chinese (native), English (fluent)
 
-**Research:** Experimental design, Statistical inference, Data analysis, Quantitative/Qualitative research methods
+**Technical:** Python, Java, C++, C, Machine Learning, Data Visualization, Git, SQL, Data
+Analysis
 
-**Design:** Figma, UI/UX Design, Prototyping, User Research
+**Research:** Experimental design, Statistical inference, Quantitative and Qualitative methods,
+User studies
+**Design:** Figma, Prototyping, UI/UX design
