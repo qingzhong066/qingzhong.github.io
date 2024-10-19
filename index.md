@@ -132,4 +132,5 @@ Analysis
 
 **Research:** Experimental design, Statistical inference, Quantitative and Qualitative methods,
 User studies
+
 **Design:** Figma, Prototyping, UI/UX design
