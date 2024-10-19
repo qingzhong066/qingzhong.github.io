@@ -20,7 +20,7 @@
 **M.S. Computer Science**
 *Jan 2023 – Jun 2025*
 
-- **Coursework:** Human-Computer Interaction,Software Engineering,Operating System,Machine Learning, Computer Vision,Computer Graphic
+- **Coursework:** Human-Computer Interaction,Software Engineering,Artificial Intellgence,Machine Learning, Computer Vision,Computer Graphic
 
 ### Northeastern University
 
