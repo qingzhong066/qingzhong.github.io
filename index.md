@@ -125,7 +125,7 @@ New England Graduate Women in Science and Engineering
 
 ## 🦾 Professional Skills
 
-**Langauge:** Chinese (native), English (fluent)
+**Langauge:** Mandarin (native), Cantonese (native), English (fluent)
 
 **Technical:** Python, Java, C++, C, Machine Learning, Data Visualization, Git, SQL, Data
 Analysis
