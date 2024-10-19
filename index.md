@@ -113,7 +113,7 @@ New England Graduate Women in Science and Engineering
 ***
 
 ## 🏆Honors and Awards
-- Graduated with honors Northeastern University 2022 
+- Graduated with honor Northeastern University 2022 
 - Dean's List Northeastern University 2022
 - Dean's List Northeastern University 2021
 - Dean's List Northeastern University 2020
