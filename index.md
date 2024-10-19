@@ -45,14 +45,7 @@ Advisor: [Prof. Robert Jacob](https://scholar.google.com/citations?user=FWjqglcA
 **"The Mind at Work: fNIRS Monitoring of Prefrontal Activity During AI-Assisted Office Tasks" (Ongoing)**
 
 Matthew Russell,Qing Zhong,Kent Zheng,Kuangyi Hu, Julia Santaniello,Robert Jacob
-- Conducted comprehensive background research on:
-  - AI tools,fNIRS,Mental workload assessment techniques and Emotion models 
-- Contributed to the design of experimental tasks simulating real-world AI-assisted work scenarios
-- Developed a comprehensive workflow webpage for the entire experiment, enhancing team coordination and experimental consistency
-- Assisted in creating participant guidance documents and experimental protocols
-- Executed participant experimental sessions, ensuring adherence to established procedures
-- Collected fNIRS data for cognitive load and emotional response analysis
-- Collaborated with team members in preliminary data organization and analysis
+- Research on utilizing fNIRS to assess cognitive load and emotional responses during AI-assisted office tasks. Integrated AI tools, mental workload assessment techniques, and emotion models. Contributed to experimental design, data collection, and preliminary analysis.
 
 &nbsp;
 
@@ -113,12 +106,11 @@ New England Graduate Women in Science and Engineering
 ***
 
 ## 🏆Honors and Awards
+- Graduated with honors Northeastern University 2022 
 - Dean's List Northeastern University 2022
 - Dean's List Northeastern University 2021
 - Dean's List Northeastern University 2020
-- Cum laude, Guangzhou City Construction College, 2016
-- National Encouragement Scholarship (top 10/850), China Ministry of Education, 2014
-- The First Prize Scholarship (top 15/850%), Guangzhou City Construction College
+- National Scholarship, China Ministry of Education, 2014
 
 &nbsp;
 
