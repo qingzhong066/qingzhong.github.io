@@ -19,7 +19,7 @@
 ### Tufts University
 **M.S. Computer Science**
 *Jan 2023 – Jun 2025*
-
+- GPA: 3.54/4.0
 - **Coursework:** Human-Computer Interaction,Software Engineering,Artificial Intellgence,Machine Learning, Computer Vision,Computer Graphic
 
 ### Northeastern University
@@ -114,10 +114,8 @@ New England Graduate Women in Science and Engineering
 
 ## 🏆Honors and Awards
 - Graduated with honor Northeastern University 2022 
-- Dean's List Northeastern University 2022
-- Dean's List Northeastern University 2021
-- Dean's List Northeastern University 2020
-- National Scholarship, China Ministry of Education, 2014
+- Dean's List Northeastern University 2020-2022
+
 
 &nbsp;
 
